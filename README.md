@@ -27,7 +27,7 @@ But in this it's not necessary to run this command as running docker-compose.yml
 
 ## 2. Launching the Application with a Database Container
 
-I introduced a MySQL container to act as database. Pulled the mysql:latest image from the Docker Hub. Then configured the mysql environmental variables as below inside the [docker-compose.yml](https://github.com/Siddanth-S/iris-project/blob/main/docker-compose.yml). By leveraging Docker Compose, I orchestrated the simultaneous launch of the application and database container. A significant consideration was ensuring the database port was not exposed externally, mitigating potential security risks. This setup also allowed us to expose our application on port 8080, enabling access from "localhost:8080".
+I introduced a MySQL container to act as database. Pulled the mysql:latest image from the Docker Hub. Then configured the mysql environmental variables as below inside the [docker-compose.yml](https://github.com/Siddanth-S/WEC-Containerization_task/blob/main/docker-compose.yml). By leveraging Docker Compose, I orchestrated the simultaneous launch of the application and database container. A significant consideration was ensuring the database port was not exposed externally, mitigating potential security risks. This setup also allowed us to expose our application on port 8080, enabling access from "localhost:8080".
 
  ```
 docker-compose up  #to launch the containers simultaneously
