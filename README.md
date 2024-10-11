@@ -11,7 +11,7 @@ Hello, this is Siddanth, pursuing Civil Engg. (I year) ! I'm going to guide you 
 
 Firstly, I had to encapsulate our application within a Docker container. This process involved creating a *Dockerfile* that specifies how the Rails environment is set up, including installing necessary dependencies and copying the application code into the container. The goal was to create an isolated environment that mimics our production setup, ensuring consistency across development, testing, and production. 
 
-Here's the DockerFile : [DockerFile](https://github.com/Siddanth-S/iris-project/blob/main/Dockerfile)
+Here's the DockerFile : [DockerFile](https://github.com/Siddanth-S/WEC-Containerization_task/blob/main/Dockerfile)
 which basically describes installation of all the dependencies, copies the application code into the image and set the entry point. 
 
 Build the image with the DockerFile:
