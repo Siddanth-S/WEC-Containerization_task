@@ -19,9 +19,8 @@ Build the image with the DockerFile:
 ```
 docker build -t my-rails-app .
 ```
+
 <img width="781" alt="Screenshot 2024-10-11 at 6 42 54 PM" src="https://github.com/user-attachments/assets/a568cad9-4d3d-48b2-829f-6b2fe3663152">
-
-
 
 But in this it's not necessary to run this command as running docker-compose.yml is sufficient to run DockerFile and create the application image. 
 
@@ -34,7 +33,8 @@ I introduced a MySQL container to act as database. Pulled the mysql:latest image
 docker-compose up  #to launch the containers simultaneously
 ```
 
-![WhatsApp Image 2024-03-18 at 12 51 30 AM](https://github.com/Siddanth-S/iris-project/assets/158839826/f3b88a80-0921-41e6-a48a-4048cf1734c2)
+<img width="960" alt="Screenshot 2024-10-11 at 9 19 16 PM" src="https://github.com/user-attachments/assets/402706ae-2080-4200-971c-c1133302b762">
+
 
 
 *Connection Successful !!*
