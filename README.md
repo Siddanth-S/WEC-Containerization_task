@@ -19,9 +19,7 @@ Build the image with the DockerFile:
 ```
 docker build -t my-rails-app .
 ```
-
-![2] <img width="781" alt="Screenshot 2024-10-11 at 6 42 54 PM" src="https://github.com/user-attachments/assets/733e3d91-b48b-420a-9817-8dc9badb47d7">
-
+<img width="781" alt="Screenshot 2024-10-11 at 6 42 54 PM" src="https://github.com/user-attachments/assets/a568cad9-4d3d-48b2-829f-6b2fe3663152">
 
 
 
