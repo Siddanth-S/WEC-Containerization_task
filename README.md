@@ -143,4 +143,5 @@ All the tasks(except Bonus) are completed and the application is perfectly runni
 
 ![WhatsApp Image 2024-03-18 at 12 51 03 AM](https://github.com/Siddanth-S/iris-project/assets/158839826/99dbe5e6-f64a-4a47-a7d7-304f663b8bf9)
 
-![WhatsApp Image 2024-03-18 at 12 51 10 AM](https://github.com/Siddanth-S/iris-project/assets/158839826/32ca495d-6f56-4da7-a643-8f6f1d48b0bc)
+
+![WhatsApp Image 2024-03-18 at 12 51 10 AM]<img width="1062" alt="Screenshot 2024-10-11 at 7 02 39 PM" src="https://github.com/user-attachments/assets/82a7d3a5-c85b-45b1-b07c-85933fff5d78">
