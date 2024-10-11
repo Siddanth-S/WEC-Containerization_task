@@ -4,7 +4,9 @@ Hello, this is Siddanth, pursuing Civil Engg. (I year) ! I'm going to guide you 
 
 ## Flow of the application 
 
-(https://github.com/user-attachments/assets/979c9ec8-261b-4962-b69b-104e4f7cb1dc)
+
+![Screenshot 2024-10-11 at 10 04 37 PM](https://github.com/user-attachments/assets/533f82d4-1f54-4525-89fd-41963bff3fe2)
+
 
 
 
