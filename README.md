@@ -67,7 +67,7 @@ Here's the implemtation : [Volume data persistance](https://github.com/Siddanth-
 
 To streamline the deployment process and ensure all components of the application ecosystem could be launched with a single command, utilized Docker Compose. This tool allowed me to define and manage multi-container Docker applications, simplifying complex deployments into manageable configurations.
 
-Here's the compose file : [docker-compose.yml](https://github.com/Siddanth-S/iris-project/blob/main/docker-compose.yml)
+Here's the compose file : [docker-compose.yml](https://github.com/Siddanth-S/WEC-Containerization_task/blob/main/docker-compose.yml)
 
 
 ## 7. Implementing Rate Limiting with Nginx
