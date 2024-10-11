@@ -20,7 +20,7 @@ Build the image with the DockerFile:
 docker build -t my-rails-app .
 ```
 
-![2](https://github.com/Siddanth-S/iris-project/assets/158839826/f7cbf1d2-b666-40f2-bcb1-80e2ff2e990b)
+![2](file:///Users/siddanthsatish/Desktop/Screenshot%202024-10-11%20at%206.42.54%E2%80%AFPM.png)
 
 
 But in this it's not necessary to run this command as running docker-compose.yml is sufficient to run DockerFile and create the application image. 
