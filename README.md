@@ -4,7 +4,8 @@ Hello, this is Siddanth, pursuing Civil Engg. (I year) ! I'm going to guide you 
 
 ## Flow of the application 
 
-![1](https://github.com/Siddanth-S/iris-project/assets/158839826/a4c13eeb-f4d9-4e33-85f4-9760e1fdbc5b)
+(https://github.com/user-attachments/assets/5dcd5fd3-41b7-49fd-9ac4-2a67524747b1)
+
 
 
 ## 1. Dockerizing the Rails Application
