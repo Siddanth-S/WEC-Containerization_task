@@ -39,7 +39,8 @@ docker-compose up  #to launch the containers simultaneously
 
 *Connection Successful !!*
 
-![WhatsApp Image 2024-03-18 at 12 50 37 AM (1)](https://github.com/Siddanth-S/iris-project/assets/158839826/32a66fbd-fd6a-44bd-95a8-b7769798fb90)
+
+<img width="1200" alt="Screenshot 2024-10-11 at 6 56 19 PM" src="https://github.com/user-attachments/assets/c1ee408f-c0a7-4ec5-bc53-4243dbd3b34f">
 
 
 ## 3. Introducing Nginx as a Reverse Proxy
