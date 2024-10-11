@@ -20,8 +20,9 @@ Build the image with the DockerFile:
 docker build -t my-rails-app .
 ```
 
-![2](<img width="781" alt="Screenshot 2024-10-11 at 6 42 54 PM" src="https://github.com/user-attachments/assets/98af93bb-0c1e-4f8e-9983-2af3942e5986">
-)
+![2] <img width="781" alt="Screenshot 2024-10-11 at 6 42 54 PM" src="https://github.com/user-attachments/assets/733e3d91-b48b-420a-9817-8dc9badb47d7">
+
+
 
 
 But in this it's not necessary to run this command as running docker-compose.yml is sufficient to run DockerFile and create the application image. 
