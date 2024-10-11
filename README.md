@@ -54,7 +54,8 @@ Here's the Nginx config : [Nginx Conf](https://github.com/Siddanth-S/iris-projec
 
 I setup to include two additional Rails containers, ensuring our application could handle increased traffic gracefully. This scaling was facilitated by Nginx's load balancing feature, which distributed incoming requests evenly across the three containers. This approach improved application's availability. 
 
-![WhatsApp Image 2024-03-18 at 12 50 52 AM (1)](https://github.com/Siddanth-S/iris-project/assets/158839826/1ac925b5-fba2-4bf1-b4ad-8eef1fdf97a8)
+<img width="1418" alt="Screenshot 2024-10-11 at 6 58 46 PM" src="https://github.com/user-attachments/assets/d60549b2-8ad9-48b3-88f9-c9fdbdfe5a49">
+
 
 
 ## 5.  Persisting Data and Configurations
