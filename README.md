@@ -47,7 +47,7 @@ docker-compose up  #to launch the containers simultaneously
 
 I integrated an Nginx container to serve as a reverse proxy for the application's accessibility and security. This setup directed incoming traffic through Nginx before reaching the Rails application, providing an additional layer of abstraction and security. Configuring Nginx for reverse proxying also allowed us to hide the inner workings of our application network. Is exposed to port 8080. No direct request to application instance can be made. It has to pass through the procy server.
 
-Here's the Nginx config : [Nginx Conf](https://github.com/Siddanth-S/iris-project/blob/main/nginx/nginx.conf)
+Here's the Nginx config : [Nginx Conf](https://github.com/Siddanth-S/WEC-Containerization_task/blob/main/nginx/nginx.conf)
 
 
 ## 4.  Scaling with Multiple Application Containers
