@@ -61,7 +61,7 @@ I setup to include two additional Rails containers, ensuring our application cou
 ## 5.  Persisting Data and Configurations
 
 Through Docker volumes, achieved persistence by mapping specific directories from our containers to the host machine. This ensured that vital data and configurations remained intact even if the containers were restarted or removed, providing a reliable and consistent experience.
-Here's the implemtation : [Volume data persistance](https://github.com/Siddanth-S/iris-project/blob/97d00c77704391e458c2b78b487de303e982bf0f/docker-compose.yml#L73)
+Here's the implemtation : [Volume data persistance](https://github.com/Siddanth-S/WEC-Containerization_task/blob/main/docker-compose.yml#L73)
 
 ## 6. Simplifying Deployment with Docker Compose
 
