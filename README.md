@@ -1,6 +1,6 @@
 # Project Documentation: Dockerizing a Rails Application with Nginx and MySQL
 
-Hello, this is Siddanth, pursuing Civil Engg. (I year) ! I'm going to guide you how I was able to setup Rails application in a Docker environment, step by step. This setup includes running our app with a separate MySQL database container, using Nginx as a reverse proxy, adding persistence, managing containers with Docker Compose, and implementing rate limiting with Nginx.
+Hello, this is Siddanth, pursuing Civil Engg. (2nd year) ! I'm going to guide you how I was able to setup Rails application in a Docker environment, step by step. This setup includes running our app with a separate MySQL database container, using Nginx as a reverse proxy, adding persistence, managing containers with Docker Compose, and implementing rate limiting with Nginx.
 
 ## Flow of the application 
 
